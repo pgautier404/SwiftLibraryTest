@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-struct SwiftLibraryTest {
+public struct SwiftLibraryTest {
     
     static var name = "Pete"
     
